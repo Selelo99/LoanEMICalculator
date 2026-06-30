@@ -22,6 +22,7 @@ Technologies Used:
  - JavaScript
    
 Project Structure:
+
 Loan-EMI-Calculator/
 │
 ├── index.html          # Welcome page
