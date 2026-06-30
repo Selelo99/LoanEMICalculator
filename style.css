@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+
+    background-image: url("cash2.jpg");
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+
+    width:700px;
+}
+
+.calculator{
+
+    background: linear-gradient(90deg,white,gray);
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 10px 25px rgba(0,0,0,.3);
+}
+
+h1{
+
+    text-align:center;
+    color: black;
+    margin-bottom:20px;
+    background: white linear-gradient(90deg,gray, white);
+}
+
+.input-group{
+
+    margin-bottom:20px;
+}
+
+label{
+
+    display:block;
+    margin-bottom:8px;
+    font-weight:bold;
+}
+
+input{
+    background: linear-gradient(90deg,white,gray);
+    width:100%;
+    padding:12px;
+    font-size:16px;
+    border:3px solid black;
+    border-radius:8px;
+}
+
+button{
+
+    width:100%;
+    padding:14px;
+    border:none;
+    background:#0077cc;
+    color:white;
+    font-size:18px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+button:hover{
+
+    background:#005fa3;
+}
+
+.result{
+
+    margin-top:30px;
+    text-align:center;
+}
+
+.result h2{
+
+    color:#333;
+}
+
+.result h3{
+
+    margin-top:10px;
+    color: red;
+    font-size:35px;
+}
+
+
