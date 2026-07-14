@@ -1,5 +1,5 @@
 # LoanEMICalculator
-Saiket Systems Task 1(Loan EMI Calculator)
+Task 1(Loan EMI Calculator)
 
 Loan EMI Calculator
 Overview
@@ -24,12 +24,12 @@ Technologies Used:
 Project Structure:
 
 Loan-EMI-Calculator/
-│
-├── index.html          # Welcome page
-├── calculator.html     # EMI calculator page
-├── style.css           # Stylesheet
-├── script.js           # JavaScript logic
-└── README.md           # Project documentation
+
+ index.html          # Welcome page
+ calculator.html     # EMI calculator page
+ style.css           # Stylesheet
+ script.js           # JavaScript logic
+ README.md           # Project documentation
 
 EMI Formula:
 
